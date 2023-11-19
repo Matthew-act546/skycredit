@@ -1,0 +1,1 @@
+//some scripts wait lang
